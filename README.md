@@ -1,6 +1,6 @@
 # Ryder Robots Documentation
 
-* This code is under very active development,  and is not yet released.  Please be adviced that while there is not guarantee of correctness from all licences,  this is really really true at the moment!!!!!
+* This code is under very active development,  and is not yet released.  Be advised that while there is not guarantee of correctness from all licences,  this is really really true at the moment!!!!!
 
 __YOU HAVE BEEN WARNED!!!__
 
@@ -20,3 +20,5 @@ The primary goals of this project are:
 
 
 ## Table Of Contents
+
+- [Getting Start](getting_started.md)
