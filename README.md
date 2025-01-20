@@ -21,5 +21,5 @@ The primary goals of this project are:
 
 ## Table Of Contents
 
-- [Getting Start](docs/getting_started.md)
-- [Develop Doc](docs/developer.md)
+- [Getting Started](docs/getting_started.md)
+- [Develop Documentation](docs/developer.md)
