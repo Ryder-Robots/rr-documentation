@@ -10,4 +10,4 @@ PS for controller is used to control the drone with the following configuration.
 | Right Y Axis | yaw      | -1:1    | int8_t   | short     |   
 
 
-- [see msp104](msp104md)
+- [see msp104](docs/developer/commands/msp104.md)
