@@ -22,4 +22,4 @@ The primary goals of this project are:
 ## Table Of Contents
 
 - [Getting Started](docs/getting_started.md)
-- [Develop Documentation](docs/developer/README)
+- [Develop Documentation](docs/developer/README.md)
