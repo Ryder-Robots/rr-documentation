@@ -23,6 +23,8 @@ journalctl -uf fatcnt.service
 
 ## Table Of Contents
 
-- [PS4 Controller](docs/developer/ps4_conroller.md)
-- [MSP104 Command](docs/developer/commands/msp104.md)
+- [Commands](commands/README.md)
+- [Controllers](controllers/ps4_control.md)
+- [Drones](drones/README.md)
+
 
