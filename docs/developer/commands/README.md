@@ -58,6 +58,6 @@ Example command.
 | [MSP_MODE](msp1.md)     | 1          | N          | changes drone mode              |
 | [MSP_ERROR](mdp2.md)    | 2          | N          | indicates an error has occurred |
 | [MSP_SET_PATH](msp8.md) | 8          | N          | sets waypoints for done         |
-| [MSP_STATUS](msp8.md)   | 101        | N          | current status of drone         |
+| [MSP_STATUS](msp101.md) | 101        | N          | current status of drone         |
 | [MSP_MOTOR](msp104.md)  | 104        | N          | sets motor from controller      |
 | MSP_SET_MOTOR_HBRIDGE   | 215        | Y          | used to set Hbridge             |
