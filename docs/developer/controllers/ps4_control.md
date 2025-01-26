@@ -1,6 +1,9 @@
 # PS4 Controller 
 
-PS for controller is used to control the drone with the following configuration.
+PS for controller is used to control the drone with the following configuration, 
+in manual flight mode.
+
+![PS 4 controller diagram](/asserts/ps4-controller-vector-png-4.jpg)
 
 | Controller   | Function        | Range   | C++ type | Java Type |
 |--------------|-----------------|---------|----------| --------- |
