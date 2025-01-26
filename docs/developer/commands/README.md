@@ -51,7 +51,6 @@ Example command.
 
 ## Commands
 
-- [see msp104](commands/msp104.md)
 
 | command                 | message_id | drone only | description                     |
 |-------------------------|------------|------------|---------------------------------|
