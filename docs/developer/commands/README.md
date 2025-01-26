@@ -55,7 +55,7 @@ Example command.
 | command                 | message_id | drone only | description                     |
 |-------------------------|------------|------------|---------------------------------|
 | MSP_NONE                | 0          | N          | no command given                |
-| MSP_MODE                | 1          | N          | changes drone mode              |
+| [MSP_MODE](msp1.md)     | 1          | N          | changes drone mode              |
 | MSP_ERROR               | 2          | N          | indicates an error has occurred |
 | [MSP_SET_PATH](msp8.md) | 8          | N          | sets waypoints for done         |
 | MSP_STATUS              | 101        | N          | current status of drone         |
