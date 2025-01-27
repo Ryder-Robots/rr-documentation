@@ -34,7 +34,7 @@ After robot has been calibrated, and trained.  It can be manually flown. For man
 * results are saved to black box
 * status is sent back to client.
 
-![Use Case 2 - training](/asserts/man_flight.jpg)
+![Use Case 3 - training](/asserts/man_flight.jpg)
 
 ## Use Case 4: Set Flight Path
 
@@ -44,5 +44,5 @@ After robot has been calibrated, and trained.  It can be manually flown. For man
 * Using [MSP_SENSOR](/docs/developer/commands/mspXX.md) commands, the current state of sensors is returned.
 * [MSP_MOTOR](/docs/developer/commands/msp104.md) is sent to d-env, which is then returned to UI.
 
-![Use Case 2 - training](/asserts/set_path.jpg)
+![Use Case 4 - training](/asserts/set_path.jpg)
 
