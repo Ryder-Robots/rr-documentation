@@ -25,3 +25,14 @@ Training is performed by:
 * This will iterate until training data reaches the desired results.
 
 ![Use Case 2 - training](/asserts/training.jpg)
+
+## Use Case 3: Manual Flight
+
+After robot has been calibrated, and trained.  It can be manually flown. For manual flight:
+* a waypoint is sent to the robot;
+* waypoint is evaluated by AI Engine, which can change direction based on results;
+* results are saved to black box
+* status is sent back to client.
+* 
+  ![Use Case 2 - training](/asserts/man_flight.jpg)
+
