@@ -29,8 +29,11 @@ Training is performed by:
 ## Use Case 3: Manual Flight
 
 After robot has been calibrated, and trained.  It can be manually flown. For manual flight:
-* a waypoint is sent to the robot;
-* waypoint is evaluated by AI Engine, which can change direction based on results;
+* a waypoint is sent to the robot, using [MSP_MOTOR](/docs/developer/commands/msp104.md)
+* waypoint is sent AI Handler
+* Handler sends [MSP_SENSOR](/docs/developer/commands/mspXX.md) to d-env
+* d-env sends back [MSP_SENSOR](/docs/developer/commands/mspXX.md) with payload response.
+* AI sends sensor [MSP_MOTOR](/docs/developer/commands/msp104.md) which may be corrected, depending on motors.
 * results are saved to black box
 * status is sent back to client.
 
