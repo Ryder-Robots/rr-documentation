@@ -2,9 +2,26 @@
 
 Overview of design concepts of robots. Various use case that are considered.
 
-## Use Case 1 Calibrate
+## Use Case 1: Calibrate
 
 Calibration is used to get critical information for training,  this task sets initial variables
-specific to the robot, such as velocity over a given displacement.
+specific to the robot, such as velocity over a given displacement.  Calibration should be performed
+on the mid power range of the drone under ideal conditions. 
 
 ![Use Case 1 - calibration](/asserts/calibrate.jpg)
+
+## Use Case 2: Training Mode
+
+Once calibration has been performed, and initial variables such as velocity, and turning circle
+have been added to drone internal configuration, then training needs to begin.
+
+For training waypoints, along with corresponding labels, and sensor information are pushed through 
+using an external device known as the personal trainer (PT).  The PT will replicate corresponding 
+sensor information.
+
+Training is performed by:
+
+* Given a series of waypoints, along with labels corresponding to expected outputs. Train neural networks.
+* This will iterate until training data reaches the desired results.
+
+![Use Case 2 - training](/asserts/training.jpg)
