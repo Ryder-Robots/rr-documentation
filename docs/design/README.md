@@ -33,6 +33,16 @@ After robot has been calibrated, and trained.  It can be manually flown. For man
 * waypoint is evaluated by AI Engine, which can change direction based on results;
 * results are saved to black box
 * status is sent back to client.
-* 
-  ![Use Case 2 - training](/asserts/man_flight.jpg)
+
+![Use Case 2 - training](/asserts/man_flight.jpg)
+
+## Use Case 4: Set Flight Path
+
+* After robot has been calibrated and trained.  Paths can be set using [SET_PATH](/docs/developer/commands/msp8.md)
+* Fat Controller Mapper adds each way-point to queue, in order.
+* [MSP_MOTOR](/docs/developer/commands/msp104.md) are created and sent to AI handler
+* Using [MSP_SENSOR](/docs/developer/commands/mspXX.md) commands, the current state of sensors is returned.
+* [MSP_MOTOR](/docs/developer/commands/msp104.md) is sent to d-env, which is then returned to UI.
+
+![Use Case 2 - training](/asserts/set_path.jpg)
 
