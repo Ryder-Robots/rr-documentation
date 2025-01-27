@@ -24,3 +24,9 @@ The primary goals of this project are:
 - [Getting Started](docs/getting_started.md)
 - [Develop Documentation](docs/developer/README.md)
 - [Design Documentation](docs/design/README.md)
+
+## References
+
+- [MathJax basic tutorial](https://ghassheee.github.io/etc/quick-mathjax.html)
+- [Proportional–integral–derivative controller](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller)
+
