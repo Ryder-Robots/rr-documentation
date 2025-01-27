@@ -29,4 +29,5 @@ The primary goals of this project are:
 
 - [MathJax basic tutorial](https://ghassheee.github.io/etc/quick-mathjax.html)
 - [Proportional–integral–derivative controller](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller)
+- [Drawing UML with PlantUML](https://pdf.plantuml.net/1.2020.22/PlantUML_Language_Reference_Guide_en.pdf)
 
