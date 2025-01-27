@@ -23,3 +23,4 @@ The primary goals of this project are:
 
 - [Getting Started](docs/getting_started.md)
 - [Develop Documentation](docs/developer/README.md)
+- [Design Documentation](docs/design/README.md)
