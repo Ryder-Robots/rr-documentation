@@ -3,7 +3,7 @@
 
 # Bill Of Materials
 
-## SEN0304
+## SEN0304 x 3
 [Datasheet](https://www.mouser.com/pdfDocs/ProductOverview_DFRobot_SEN0304.pdf)
 
 - range  150cm, 300cm, 500cm (selectable)
@@ -15,9 +15,16 @@
 
 [datasheet](https://content.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf)
 
+- voltage 3.3v
+- current 10mA
+
 [see GPS](gps.md)
 
-# References
 
+# Circuit Board Notes
+
+For current calculation, the formula is $R = \frac{V}{I_max}$
+
+# References
 
 [Arduino 33 BLE Pins](https://axodyne.com/2020/06/arduino-33-ble-pins/)
