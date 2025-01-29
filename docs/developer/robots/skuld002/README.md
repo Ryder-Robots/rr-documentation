@@ -47,11 +47,11 @@ therefore the capacitor required is:
 $V(t) = V_0.e^-\frac{t}{RC}$
 
 Where:
-- V(t) = Voltage at time t
-- V₀ = Initial voltage
-- R = Resistance
+- V(t) = Voltage at time  3.3v
+- V₀ = Initial voltage 3.3v
+- R = Resistance (55$\Omega$)
 - C = Capacitance
-- t = Time
+- t = Time (10ms = 0.01s)
 
 # References
 
