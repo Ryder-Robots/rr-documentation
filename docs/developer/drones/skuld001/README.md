@@ -1,4 +1,4 @@
-# Land Drone 001/002
+# Land Drone 001
 
 For H-Bridge controllers the following values are used:
 
