@@ -53,6 +53,10 @@ Where:
 - C = Capacitance
 - t = Time (10ms = 0.01s)
 
+becomes
+
+$C = - \frac{0.01}{55(-0.415)} \approx 438 \muF$
+
 # References
 
 [Arduino 33 BLE Pins](https://axodyne.com/2020/06/arduino-33-ble-pins/)
