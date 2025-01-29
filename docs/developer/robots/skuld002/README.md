@@ -36,7 +36,7 @@ $R = \frac{V}{3I_m}$
 
 the coefficients being the 3 SEN0304.
 
-$R = \frac{3.3}{3(20 \times 0.001)}$
+$R = \frac{3.3}{3(20 \times 0.001)} = \frac{3.3}{3(20 \times 0.001)} = \frac{3.3}{0.06} = 55 \omega$ 
 
 # References
 
