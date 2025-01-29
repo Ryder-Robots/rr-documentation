@@ -15,7 +15,7 @@
 
 [datasheet](https://content.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf)
 
-[see GPS](docs/drones/skuld002/gps.md)
+[see GPS](gps.md)
 
 # References
 
