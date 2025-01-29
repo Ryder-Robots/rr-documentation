@@ -55,7 +55,7 @@ Where:
 
 becomes
 
-$C = - \frac{0.01}{55(-0.415)} \approx 438 \muF$
+$C = - \frac{0.01}{55(-0.415)} \approx 438 \mu F$
 
 # References
 
