@@ -25,6 +25,6 @@ journalctl -uf fatcnt.service
 
 - [Commands](commands/README.md)
 - [Controllers](controllers/ps4_control.md)
-- [Drones](robots/README.md)
+- [Robots](robots/README.md)
 
 
