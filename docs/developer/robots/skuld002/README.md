@@ -23,7 +23,20 @@
 
 # Circuit Board Notes
 
-For current calculation, the formula is $R = \frac{V}{I_max}$
+For current calculation, the formula is $R = \frac{V}{I_m}$
+
+where:
+- R = resistance measured in Ohms
+- V = voltage measured in volts
+- I = current measured in Amps
+
+For ultra-sonics the calculation becomes:
+
+$R = \frac{V}{3I_m}$
+
+the coefficients being the 3 SEN0304.
+
+$R = \frac{V}{3.3}{3(20 x 1000)}$
 
 # References
 
