@@ -3,6 +3,10 @@
 
 # Bill Of Materials
 
+## Raspberry Pi 4B
+
+[Datasheet](https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf)
+
 ## SEN0304 x 3
 [Datasheet](https://www.mouser.com/pdfDocs/ProductOverview_DFRobot_SEN0304.pdf)
 
@@ -37,6 +41,17 @@ $R = \frac{V}{3I_m}$
 the coefficients being the 3 SEN0304.
 
 $R = \frac{3.3}{3(20 \times 0.001)} = \frac{3.3}{3(20 \times 0.001)} = \frac{3.3}{0.06} = 55\Omega$ 
+
+therefore the capacitor required is:
+
+$V(t) = V_0.e^-\frac{t}{RC}$
+
+Where:
+- V(t) = Voltage at time t
+- V₀ = Initial voltage
+- R = Resistance
+- C = Capacitance
+- t = Time
 
 # References
 
