@@ -107,3 +107,6 @@ $C = - \frac{0.01}{55(-0.415)} \approx 438 \mu F$
 # References
 
 [Arduino 33 BLE Pins](https://axodyne.com/2020/06/arduino-33-ble-pins/)
+
+
+![img.png](img.png)
