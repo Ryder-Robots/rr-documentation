@@ -24,6 +24,53 @@
 
 [see GPS](gps.md)
 
+# Logical Wiring
+
+Logical wiring, is all wiring that does not involve power, 
+
+## H-Bridge
+
+Diodes are placed in front of H-bridge Vs line to stablalize current.
+
+### H-bridge 1
+
+| Hbridge | MC GPIO | 
+|---------|---------|
+| ENB     | D2      |
+| IN4     | D3      |
+| IN3     | D4      |
+| ENA     | D5      |
+| IN2     | D6      |
+| IN1     | D7      |
+
+### H-bridge 2
+
+| Hbridge | MC GPIO    | 
+|---------|------------|
+| ENB     | D8         |
+| IN4     | D9         |
+| IN3     | D10        |
+| ENA     | D11 (MOSI) |
+| IN2     | D12 (MISO) |
+| IN1     | D13 (SCK)  |
+
+## GPS
+
+| IO | MC GPIO |
+| -- |---------|
+| TX | RX      |
+| RX | TX      |
+
+3 diodes in serial are used to reduce voltage from 5v to 3v, Note that current may need to be 
+controlled (not decided yet). Polarized capacitor is placed in front of GPS so that power 
+is available
+
+# Ultra Sonic
+
+All ultra sonics are on a serial bus, two capacitors are used in parallel to achieve capacitance 
+as close as possible to 438 $\my F$
+
+Bus lines are I2C SDA, SCL and are connected to micro-processor.
 
 # Circuit Board Notes
 
