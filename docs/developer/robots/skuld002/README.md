@@ -3,6 +3,39 @@
 
 # Bill Of Materials
 
+## Chassis
+
+#### Specifications:
+- Branch: Protech
+- Robot height: 2.6 in (6.5 cm)
+- Weight: 1.68 lb. (760 g)
+- Chassis length: 8.3 in (21 cm)
+- Chassis height: 2.6 in (6.5 cm)
+
+
+## TT Motors x 4
+#### Specifications
+
+- Gear ratio 1:48
+- No-load speed: 220rpm
+- Torque (3V): 3200 mg/cm
+- Torque (6V): 5500 mg/cm
+
+[Datasheet](https://s3.amazonaws.com/resources-creativa/Robokits/Partes+Makeblock/TT+Geared+Motor+DC+6V/2015-10-23-15-10-36.jpg)
+
+## Mecanum Wheels
+
+- Brand: DF Robot
+[Datasheet](https://core-electronics.com.au/mecanum-wheel-left-80mm.html)
+
+
+## Wheel Shaft
+
+- Brand Ryder Robots
+
+see [wheel shaft](wheel_shaft.md)
+
+
 ## Raspberry Pi 4B
 
 [Datasheet](https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf)
