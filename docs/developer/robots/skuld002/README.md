@@ -21,6 +21,8 @@
 - Torque (3V): 3200 mg/cm
 - Torque (6V): 5500 mg/cm
 
+[Datasheet](https://s3.amazonaws.com/resources-creativa/Robokits/Partes+Makeblock/TT+Geared+Motor+DC+6V/2015-10-23-15-10-36.jpg)
+
 ## Mecanum Wheels
 
 - Brand: DF Robot
