@@ -18,6 +18,8 @@ where:
 - r = ?
 - $\theta$ = 5.4
 
+![Wheel Shaft SLT](/asserts/wheel_shaft.stl)
+
 
 
 
