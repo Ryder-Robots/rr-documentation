@@ -13,3 +13,11 @@ $l = 16.7 + 1.5 = 18.2$
 
 calculations for in inner slot edge $s = r \times \theta$
 
+where:
+- s = is the arc length = 3.7
+- r = ?
+- $\theta$ = 5.4
+
+
+
+
