@@ -11,3 +11,5 @@ $\frac{7.62}{6 \div 2} = 2.54$ Shaft size of the hub is given as 16.7mm, so addi
 
 $l = 16.7 + 1.5 = 18.2$
 
+calculations for in inner slot edge $s = r \times \theta$
+
