@@ -31,7 +31,7 @@
 
 ## Wheel Shaft
 
-- Brand: Ryder Robots
+- Brand Ryder Robots
 
 see [wheel shaft](wheel_shaft.md)
 
