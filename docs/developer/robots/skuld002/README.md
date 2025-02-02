@@ -46,7 +46,6 @@ see [wheel shaft](wheel_shaft.md)
 
 see [ultra_sonic_mount](/asserts/ultra_sonic_mount.stl)
 
-see [mo]
 
 ## SEN0304 x 3
 [Datasheet](https://www.mouser.com/pdfDocs/ProductOverview_DFRobot_SEN0304.pdf)
